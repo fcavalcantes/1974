@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YQbnxUKOqkP0XbCTaXjS0sNi2szF9K0ZHxo6gavSUVwLSCP8gtiU4EOgKXzaRgeZRZwgUWkzKbW/ltsaut7sLA==",
+  "success": true,
+  "projectFilePath": "c:\\dev\\BaltaStore\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FERNANDO\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\FERNANDO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\FERNANDO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
